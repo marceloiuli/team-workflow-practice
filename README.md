@@ -2,4 +2,4 @@
 
 Hello world
 
-Hey some code newly from me!
+I made some code!
